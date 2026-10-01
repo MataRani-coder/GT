@@ -1,0 +1,5 @@
+Ghost Trail bootstrap administrator
+Username: admin
+Password: L1Ealzod7NSC_AWc
+
+Change GHOST_TRAIL_ADMIN_PASSWORD before deployment.
