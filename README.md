@@ -139,3 +139,5 @@ The frontend's development proxy also targets port `8765`; if you use `npm run d
 
 ### Hardening / camera ownership
 Room Scan and biometric enrollment use an exclusive webcam session. Surveillance releases local OpenCV camera handles first, and the server rejects scan frames that do not belong to an active exclusive session. See `IDENTITY_STITCHING_HARDENING.md` for the full image-stitching, identity-stitching, flaw, and validation plan.
+#   G T  
+ 
